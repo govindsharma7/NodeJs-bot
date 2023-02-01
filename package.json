@@ -13,7 +13,7 @@
         "google-search-results-nodejs": "^1.3.0",
         "google-search-scraper": "^0.1.0",
         "googleapis": "^48.0.0",
-        "mongoose": "^5.9.7"
+        "mongoose": "^5.13.15"
     },
     "keywords": [],
     "license": "ISC"
